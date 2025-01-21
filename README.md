@@ -8,4 +8,4 @@ This is an API that allows EarthQuake detection using an Arduino Vibration Senso
 - on a different terminal, run `python sensor.py` in order to start listening for he bluetooth events
 - make sure that your bluetooth is ON
 - make sure that your phone is connected on the same netword as the server
-- enter your server's ip address in the mobile app in order to listen for the events
+- enter your server's ip address in the <a href="https://github.com/zaqks/QuakeGuard_app">QuakeGuard App</a> in order to listen for the events
