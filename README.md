@@ -1,6 +1,6 @@
 # QuakeGuard
 
-This is an API that allows EarthQuake detection using an Arduino Vibration Sensor
+This is an API that allows EarthQuake detection using an Arduino Vibration Sensor Or Dedicated Hardware
 
 # How to use
 
