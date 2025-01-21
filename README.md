@@ -1,3 +1,6 @@
+<img src="docs/logo.png" width="100%">
+
+
 # QuakeGuard
 
 This is an API that allows EarthQuake detection using an Arduino Vibration Sensor Or Dedicated Hardware (Prototyping using Wifi and Bluetooth)
