@@ -1,4 +1,4 @@
-<img src="docs/logo.png" width="100%">
+![logo](docs/logo.png)
 
 
 # QuakeGuard
